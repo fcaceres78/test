@@ -1,0 +1,10 @@
+*.class
+*.mf
+*.properties
+*.xml
+*.gif
+*.png
+*.html
+*.jar
+*.jnlp
+*.js
